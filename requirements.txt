@@ -7,5 +7,4 @@ motor
 pymongo
 passlib[bcrypt]
 pyjwt
-jwt
 pydantic[email]
